@@ -2,7 +2,7 @@ import './App.css';
 
 function App() {
   return (
-    <p>Hello World</p>
+    <p>Hello World, esse é um teste de GIT</p>
   );
 }
 
